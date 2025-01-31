@@ -1,4 +1,3 @@
-//Electronic Buzz
 #include <Servo.h>
 volatile long int A;
 float checkdistance_11_10() 
